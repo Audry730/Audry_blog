@@ -6,6 +6,5 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
 Hello, i introduce myself. I am Audry, i study biological sciences at UMONS. I play volleyball in provincial 2.
 - Deschuyteneer Audry, bachelor in 2nd, English for science with Mr Devillez.
