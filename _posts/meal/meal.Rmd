@@ -1,14 +1,20 @@
 ---
 title: "My English Activity Log : MEAL"
 author: "Deschuyteneer Audry"
-  - name: "___" 
+name: "Deschuyteneer Audry" 
 date: "`r Sys.Date()`"
-categories:
-  - "English for Science"
-  - "M.E.A.L."
 output: distill::distill_article
 ---
-
+Hello to you who read my blog!  In this post I will give my opinion on different talk shows and then classify them.
+The first talk show is that of Steven Colbert, "Hot take", that is a great talk show but the speaking rate is high.
+The second is that of Trevor Noah, "The daily social distancing show", this one is really interesting because the explanations are clear and easy to understand. 
+The 3rd is the talk show: "The tonight show" by Jimmy Fallon. This talk show is verry funny. Jimmy Fallon laughs at everything and everyone.
+The last is "Last week tonight" by John Oliver. The format of this talk show is more serious, there are fewer jokes than in "The tonight show", but John Oliver clearly gives his opinion on the subjects discussed.
+My ranking is :
+1^st^ The tonight show
+2^nd^ The daily social distancing show
+3^rd^ Last week tonight
+4^th^ Hot take
 
 Here are a few examples (some of them are based on examples I've read on blogs so far):
 
