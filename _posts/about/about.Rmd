@@ -1,10 +1,9 @@
 ---
 title: "About me"
-author:
-  - name: "Deschuyteneer Audry" 
+author: "Deschuyteneer Audry"
+  - name: "Hello, i introduce myself. I am Audry, i study biological sciences at UMONS. I play volleyball in provincial 2.
+- Deschuyteneer Audry, bachelor in 2nd, English for science with Mr Devillez." 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-Hello, i introduce myself. I am Audry, i study biological sciences at UMONS. I play volleyball in provincial 2.
-- Deschuyteneer Audry, bachelor in 2nd, English for science with Mr Devillez.

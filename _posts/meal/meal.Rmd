@@ -1,6 +1,6 @@
 ---
 title: "My English Activity Log : MEAL"
-author:
+author: "Deschuyteneer Audry"
   - name: "___" 
 date: "`r Sys.Date()`"
 categories:
