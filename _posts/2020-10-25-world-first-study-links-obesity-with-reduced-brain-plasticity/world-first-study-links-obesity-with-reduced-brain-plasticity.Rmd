@@ -1,0 +1,52 @@
+---
+title: "World first study links obesity with reduced brain plasticity"
+description: |
+  "Study found that being overweight had a lower ability to create new neural pathways"
+author:
+  - name: Deschuyteneer Audry
+    url: {}
+date: 10-25-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## I. Source
+
+[link](https://www.sciencedaily.com/releases/2020/09/200924101936.htm) 
+
+## II. Vocabulary
+
+| Word                              | Traduction                            |
+|-----------------------------------|---------------------------------------|
+| strongly                          | fortement                             |
+| brain plasticity                  | plasticité cérébrale                  |
+| transcranial magnetic stimulation | stimulation transcrânienne magnétique |
+| pathway                           | voie                                  |
+| impared                           | affaiblie                             |
+| burden                            | fardeau                               |
+| suffer strokes                    | souffrir d'AVC                        |
+| disability                        | invalidé                              |
+
+## III. Analysis table
+Researchers:
+University of South Australia.
+
+Published in? When? :
+SienceDaily, September 24, 2020.
+
+General topic:
+The influence of obesity to the brain plasticity.
+
+Procedure/ what was examined:
+With experiments on transcranial magnetic stimulation.
+
+Conclusions/ discovery:
+By comparing the brain activity of an obese person with the brain activity of a person with a healthy weight, we see that obese people have a lower response to stimuli than people with normal weight.
+
+Remaining questions:
+/
+
