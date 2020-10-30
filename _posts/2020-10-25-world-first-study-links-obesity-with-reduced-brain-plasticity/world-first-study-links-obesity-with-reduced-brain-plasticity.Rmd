@@ -20,16 +20,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## II. Vocabulary
 
-| Word                              | Traduction                            |
-|-----------------------------------|---------------------------------------|
-| strongly                          | fortement                             |
-| brain plasticity                  | plasticité cérébrale                  |
-| transcranial magnetic stimulation | stimulation transcrânienne magnétique |
-| pathway                           | voie                                  |
-| impared                           | affaiblie                             |
-| burden                            | fardeau                               |
-| suffer strokes                    | souffrir d'AVC                        |
-| disability                        | invalidé                              |
+| Word                              | Synonyme/explanation                                     | Traduction                             |
+| --------------------------------- | -------------------------------------------------------- | -------------------------------------- |
+| strongly                          | energetically                                            |  fortement                             |
+|  brain plasticity                 | The capacity of the brain to make new connection         | plasticité cérébrale                   |
+| transcranial magnetic stimulation | experiment to demonstrate the presence of brain problems | stimulation transcrânienne magnétique  |
+| pathway                           | road                                                     |  voie                                  |
+| impaired                          | disabled                                                 |  affaiblie                             |
+|  burden                           | freight                                                  | fardeau                                |
+| suffer strokes                    | be in pain for AVC                                       | souffrir d'AVC                         |
+| disability                        | invalidity                                               | invalidé                               |
 
 ## III. Analysis table
 Researchers:
@@ -49,4 +49,3 @@ By comparing the brain activity of an obese person with the brain activity of a 
 
 Remaining questions:
 /
-
