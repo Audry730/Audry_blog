@@ -10,7 +10,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/Audry730/Audry_blog.git
+      href: http://github.com/Audry730/Audry_blog.git
 base_url: http://Audry730.github.io/Audry_blog/
 collections:
     posts:
