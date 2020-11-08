@@ -11,7 +11,7 @@ navbar:
       href: about.html
     - icon: fab fa-github
       href: https://github.com/Audry730/Audry_blog.git
-base_url: Audry730.github.io/Audry_blog/
+base_url: http://Audry730.github.io/Audry_blog/
 collections:
     posts:
       disqus: audry-blog
