@@ -6,5 +6,10 @@ listing: posts
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
+distill::create_post("A world-first study has found that severely overweight people are less likely to be able to re-wire their brains and find new neural pathways, a discovery that has significant implications for people recovering from a stroke or brain injury.")
+distill::create_post("Losing weight could prevent or even reverse diabetes, according to late breaking research presented today at ESC Congress 2020.")
+```
+```{r, echo = FALSE, eval = FALSE}
+
 ```
 

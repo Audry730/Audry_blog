@@ -1,0 +1,53 @@
+---
+title: "Losing weight could prevent or even reverse diabetes, according to late breaking research presented today at ESC Congress 2020."
+description: |
+  This post is the analysis of an article on the link between BMI and diabetes.
+author:
+  - name: Deschuyteneer Audry
+    url: {}
+date: 11-12-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## I. Source
+
+[link](https://www.sciencedaily.com/releases/2020/08/200831090129.htm)
+
+## II. Vocabulary
+
+| Word       | Synonyme                 | Traduction     |
+| ---------- | ------------------------ | -------------- |
+| likelyhood | possibillity/probability | probabilité    |
+| pinpoint   | locate                   | repérer        |
+| whether    | /                        | qu'il s'agisse |
+| threshold  | limit                    | seuil          |
+
+## III. Analysis Table
+
+Researchers:
+European Society of Cardiology
+
+Published in? When? :
+In ScienceDaily, august 31, 2020
+
+General topic:
+The consequence of high BMI into the diabete.
+
+Procedure/ what was examined:
+They studied the genetic risk of becoming diabetic. They took 445,765 participants and made 5 groups. Depending on the genetic risk to develop diabetes. They found that people with a high BMI are 11 times more likely to develop diabetes.
+
+Conclusions/ discovery:
+I didn't know diabeties could be linked to genetics.
+
+Remaining questions:
+Which genes helped to separate the participants into the different groups ?
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
