@@ -10,6 +10,6 @@ distill::create_post("A world-first study has found that severely overweight peo
 distill::create_post("Losing weight could prevent or even reverse diabetes, according to late breaking research presented today at ESC Congress 2020.")
 ```
 ```{r, echo = FALSE, eval = FALSE}
-
+distill::create_post("the way children are fed has an impact on their health.")
 ```
 

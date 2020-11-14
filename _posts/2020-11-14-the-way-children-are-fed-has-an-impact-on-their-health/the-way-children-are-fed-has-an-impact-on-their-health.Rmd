@@ -1,0 +1,42 @@
+---
+title: "The way children are fed has an impact on their health."
+description: |
+  A short description of the post.
+author:
+  - name: Deschuyteneer Audry
+    url: {}
+date: 11-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## I. Source
+
+[link](https://www.sciencedaily.com/releases/2020/05/200511092923.htm )
+
+## II. Vocabulary
+
+| Word       | Synonyme/explanation | Traduction    |
+| ---------- | -------------------- | ------------- |
+| statement  | communication        | déclaration   |
+| behaviors  | performance          | comportement  |
+| caregivers | life's work          | soignants     |
+| childhood  | infancy              | l'enfance     |
+| although   | even if              | bien que      |
+| overall    | in general           | globale       |
+| cues       | hint                 | indics        |
+| allowing   | /                    | permettant    |
+| ownership  | possession           | la possession |
+| fullness   | abundance            | plénitude     |
+| picky      | fussy                | pointilleux   |
+| boundaries | border/termination   | limites       |
+
+## III. Analysis Table
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
