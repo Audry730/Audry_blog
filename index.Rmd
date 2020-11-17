@@ -12,4 +12,8 @@ distill::create_post("Losing weight could prevent or even reverse diabetes, acco
 ```{r, echo = FALSE, eval = FALSE}
 distill::create_post("the way children are fed has an impact on their health.")
 ```
+```{r}
+distill::create_post("graphic_description")
+```
+
 
