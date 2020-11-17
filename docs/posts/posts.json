@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-17-graphicdescription/",
+    "title": "graphic_description",
+    "description": "I will create and describe one chart.",
+    "author": [
+      {
+        "name": "Deschuyteneer Audry",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-17",
+    "categories": [],
+    "preview": "posts/2020-11-17-graphicdescription/graphicdescription_files/figure-html5/Chart-1.png",
+    "last_modified": "2020-11-17T10:36:32+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/2020-11-14-the-way-children-are-fed-has-an-impact-on-their-health/",
     "title": "The way children are fed has an impact on their health.",
     "description": "A short description of the post.",
