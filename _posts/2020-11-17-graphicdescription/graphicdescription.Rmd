@@ -22,6 +22,8 @@ data <- read("urchin_bio", package = "data.io")
 ## Description du graphique.
 
 I am going to analyze a chart that contains the size data of male urchins compare to female urchins. The goal is to compare the two sex of urchins to see which are the most profitable for food.
+
+
 ```{r Chart}
 chart(data = urchin_bio, height ~ weight %col=% sex) +
    geom_point(na.rm = TRUE)
