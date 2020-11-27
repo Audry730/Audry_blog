@@ -36,6 +36,30 @@ knitr::opts_chunk$set(echo = FALSE)
 | boundaries | border/termination   | limites       |
 
 ## III. Analysis Table
+Researchers:
+
+American Heart Association
+
+Published in? When? :
+
+May 11, 2020 in Science Daily
+
+General topic:
+
+The goal of the study is to show the importance of the psychological aspect when feeding children.
+
+Procedure/ what was examined:
+
+By asking children and parents about their diet is there any insistence on eating
+
+Conclusions/ discovery:
+
+Parents and grandparents usually strongly insist that children eat and this changes the feeding behavior of children. There are different strategies for getting children to eat enough without forcing them. For example, we can leave them free to eat what they want
+
+Remaining questions:
+
+/
+
 Distill is a publication format for scientific and technical writing, native to the web.
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
