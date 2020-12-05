@@ -1,0 +1,54 @@
+---
+title: "How the breastfeeding decreasethe risk of becoming obese"
+description: |
+  A short description of the post.
+author:
+  - name: Deschuyteneer Audry
+    url: {}
+date: 12-05-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## I. Source
+
+[link](https://www.sciencedaily.com/releases/2020/06/200611152438.htm)
+
+## II. Vocabulary
+
+| Word          | Synonyme                             | Traduction                |
+| ------------- | ------------------------------------ | ------------------------- |
+| breastfeeding | suckle                               | allaitement               |
+| ward off      | parry                                | éviter/parrer             |
+| odds          | probability                          | La chance/ la probabilité |
+| wellness      | Your wellness is how healthy you are | Le bien être              |
+| standpoint    | point of view                        | le point de vue           |
+
+## III. Analysis Table
+
+Researchers:
+Laurent Briollas
+
+Published in? When? :
+In ScienceDaily, june 11, 2020
+
+General topic:
+The influence of breastfeeding on obesity.
+
+Procedure/ what was examined:
+We studied the difference in BMI between 5,000 children genetically at risk of being obese. Some have benefited from breast milk and others have not.
+
+Conclusions/ discovery:
+We notice that breastfed children have a smaller BMI than those who did not.
+
+Remaining questions:
+What does a child genetically at risk of becoming obese mean?
+What genes are studied to determine risk?
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

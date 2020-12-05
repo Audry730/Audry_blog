@@ -1,20 +1,18 @@
 [
   {
-    "path": "posts/2020-11-17-graphicdescription/",
-    "title": "graphic_description",
-    "description": "I will create and describe one chart.",
+    "path": "posts/2020-12-05-how-the-breastfeeding-decreasethe-risk-of-becoming-obese/",
+    "title": "How the breastfeeding decreasethe risk of becoming obese",
+    "description": "A short description of the post.",
     "author": [
       {
         "name": "Deschuyteneer Audry",
         "url": {}
       }
     ],
-    "date": "2020-11-17",
+    "date": "2020-12-05",
     "categories": [],
-    "preview": "posts/2020-11-17-graphicdescription/graphicdescription_files/figure-html5/Chart-1.png",
-    "last_modified": "2020-11-18T08:50:50+01:00",
-    "preview_width": 1248,
-    "preview_height": 768
+    "preview": {},
+    "last_modified": "2020-12-05T16:27:34+01:00"
   },
   {
     "path": "posts/2020-11-14-the-way-children-are-fed-has-an-impact-on-their-health/",
