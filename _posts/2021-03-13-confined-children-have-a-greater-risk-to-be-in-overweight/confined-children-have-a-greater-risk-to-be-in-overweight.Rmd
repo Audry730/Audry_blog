@@ -1,0 +1,52 @@
+---
+title: "Confined children have a greater risk to be in overweight."
+description: |
+  This analysis explain how the confined children becom obese.
+author:
+  - name: Deschuyteneer Audry
+    url: {}
+date: 03-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## I. Source
+
+[link](https://www.sciencedaily.com/releases/2020/08/200828122727.htm)
+
+## II. Vocabulary
+
+| Word       | Synonymes   | Traduction            |
+| ---------- | ----------- | --------------------- |
+| households | domiciliary | "Confiné" à la maison |
+| poor       | incomplete  | pauvre                |
+| assess     | evaluate    | évaluer               |
+
+## III. Analysis Table
+
+Researchers:
+Sara Benjamin-Neelon.
+
+Published in? When? :
+In ScienceDaily, august 28, 2020
+
+General topic:
+This article explain the consequencies from the covid-19 crisis to the child overweight. 
+
+Procedure/ what was examined:
+The researches analysed the BMI (body mass index) of 700 childrens in north California aged from 3 to 12 months. They noticed that these childrens having a higher fat level. They are in overweight. The scientist asked the mother how they feed their children. Most moms force their child to finish their bottle.
+
+Conclusions/ discovery:
+The covid-19 crisis cause poor feeding of children and therefor increases the risk to becoming obese. Parents also have a role in increasing by forcing children to eat.
+
+Remaining questions:
+/
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
