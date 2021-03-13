@@ -1,0 +1,52 @@
+---
+title: "The presence of an inflammatory gene can prevent the risk of obesity."
+description: |
+  The scientist discover that we can turn off a inflammtory gene to stop weight gain.
+author:
+  - name: Deschuyteneer Audry
+    url: {}
+date: 03-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## I. Source
+
+[link](https://www.sciencedaily.com/releases/2020/09/200929123504.htm)
+
+## II. Vocabulary
+
+| Word        | Synonymes   | Traduction |
+| ----------- | ----------- | ---------- |
+| unravel     | disentangle | démêler    |
+| rogue       | villain     | voyou      |
+| overwhelmed | submerge    | submergé   |
+
+## III. Analysis Table
+
+Researchers:
+Dr Denuja Karunakaran.
+
+Published in? When? :
+In ScienceDaily, september 29, 2020
+
+General topic:
+The RIPK1 gene cause overweight because if present in large amounts, it can cause obesity.
+
+Procedure/ what was examined:
+Dr Denuja Karunakaran discover that the gene RIPK1 cause overweight problem in certain people. He tested the gene on mice and noticed that they are overweight faster if they have this gene in them.
+
+Conclusions/ discovery:
+A high concentration of this gene in fat tissue increases the risk of becoming obese.
+
+Remaining questions:
+This experiment was done on mice but, why would it be the same for humans ?
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
