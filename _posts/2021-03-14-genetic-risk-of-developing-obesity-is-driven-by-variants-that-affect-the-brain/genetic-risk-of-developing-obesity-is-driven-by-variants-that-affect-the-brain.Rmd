@@ -1,0 +1,54 @@
+---
+title: "Genetic risk of developing obesity is driven by variants that affect the brain"
+description: |
+  The scientist have identified cells in the brain that play role in the development of obesity.
+author:
+  - name: Deschuyteneer Audry
+    url: {}
+date: 03-14-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source
+
+[link](https://www.sciencedaily.com/releases/2020/09/200929123437.htm)
+
+## II. Vocabulary
+
+| Word      | Synonymes     | Traduction |
+| --------- | ------------- | ---------- |
+| disease   | affliction    | maladie    |
+| sight     | vision        | vision     |
+| willpower | determination | volonté    |
+| lack of   | deficiency    | manquer de |
+
+## III. Analysis Table
+
+Researchers:
+Pr Tune H Pers and his team.
+
+Published in? When? :
+In ScienceDaily, September 29, 2020
+
+General topic:
+Obese people have common genetics variants
+
+Procedure/ what was examined:
+This study was doing to compare two different data set. First compares the weight of 450,000 people to their own genome. And shows that people with obesity have common genetics variants.The second analyzes 700 different single-cell RNA populations to highlight which part of the genome causes obesity.
+
+Conclusions/ discovery:
+The team put together the 2 datasets and noticed that the genetic variants associated with obesity are close to the genes expressed by 26 populations.
+
+Remaining questions:
+RNA analysis is done on mouse, how can we be sure that the effect of RNA is the same in humans?
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
