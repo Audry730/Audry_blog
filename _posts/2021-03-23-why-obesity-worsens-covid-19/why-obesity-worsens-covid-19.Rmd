@@ -1,0 +1,53 @@
+---
+title: "Why obesity worsens COVID-19"
+description: |
+  Doctors have noticed that overweight people have a higher risk of being hospitalized for covid-19 than others with a healthy weight.
+author:
+  - name: Deschuyteneer Audry
+    url: {}
+date: 03-23-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source
+
+[link](https://science.sciencemag.org/content/369/6509/1280)
+
+## II. Vocabulary
+
+| Word    | Synonymes | Traduction            |
+| ------- | --------- | --------------------- |
+| Sharper | obvious   | plus net/ plus claire |
+| merely  | albeit    | simplement            |
+| creep   | fear      | La peur               |
+
+## III. Analysis Table
+
+Researchers:
+Meredith Wadman
+
+Published in? When? :
+In Science, 11 Sep 2020
+
+General topic:
+People in overweight are often sick. With the covid-19 these people have a lot of problem. But why these people are most affected than other?
+
+Procedure/ what was examined:
+Medicines provide to different hospital notice that people in overweight have most difficult to breath. These medicines analysed their patients and notice that patients in overweight are most sick than other people. Indeed, in 339.000 patients in overweight, 74% more likely to be admitted to an ICU and 48% of them are more likely to die. Almost 50% people are more likely to die, that is a big percentage of them.
+
+Conclusions/ discovery:
+The reason is than their overweight decrease their immunity. So, the covid-19 easily infects them. The people in overweight generally have breath difficulty, chronic inflammation and blood that is prone to clot. All of this worsen symptoms of covid-19.
+
+Remaining questions: /
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
