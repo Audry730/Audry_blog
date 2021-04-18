@@ -1,0 +1,27 @@
+---
+title: "Explanation about my topic"
+description: |
+  A short description of the post.
+author:
+  - name: Deschuyteneer Audry
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I am choosing the topic "What is the influence of obesity on the body?". This topic is important for me because someone in my family died of obesity. She was eating too much and it was lethal to her. For me it is important to talk about obesity in order to offer solutions for people who suffer from it.
+
+
+After the analyse of differents articles. I have learnd a lot of information on obesity and I understood that obesity is responsible for a lot of problems. The best known are heart problems, back problems, and mobility problems. But other less well-known problems are a decrease in immunity, drops in blood pressure or even a decrease in attention.
+To conclude, I will say that overweight is not a "taboo" subject, we must talk about it and give solutions to people for who it is dangerous.
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
